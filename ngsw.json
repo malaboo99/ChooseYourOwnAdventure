@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1761675818707,
+  "timestamp": 1761676426261,
   "index": "/ChooseYourOwnAdventure/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/ChooseYourOwnAdventure/favicon.ico",
         "/ChooseYourOwnAdventure/index.html",
-        "/ChooseYourOwnAdventure/main-TMMUUZLV.js",
+        "/ChooseYourOwnAdventure/main-J5ZBS2TU.js",
         "/ChooseYourOwnAdventure/manifest.webmanifest",
         "/ChooseYourOwnAdventure/polyfills-DHHU6LMO.js",
         "/ChooseYourOwnAdventure/styles-2I5HHR7V.css"
@@ -73,8 +73,8 @@
     "/ChooseYourOwnAdventure/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/ChooseYourOwnAdventure/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/ChooseYourOwnAdventure/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/ChooseYourOwnAdventure/index.html": "79b553f5d82b75e88c7fdabc8b32399ceb1462eb",
-    "/ChooseYourOwnAdventure/main-TMMUUZLV.js": "bf68ff0c1cd7d4b23f2068f33518f8866f449098",
+    "/ChooseYourOwnAdventure/index.html": "49116f234f082c3e0b505c902db1025d26cdb865",
+    "/ChooseYourOwnAdventure/main-J5ZBS2TU.js": "e27b4268b9a923f56a778b5de5ecfb2f56400d60",
     "/ChooseYourOwnAdventure/manifest.webmanifest": "1f825e3f89e058522d09a65eb5a6159341b04ac0",
     "/ChooseYourOwnAdventure/polyfills-DHHU6LMO.js": "d92ccbd77dd00b2583aa8731a15b08b13ab445fb",
     "/ChooseYourOwnAdventure/styles-2I5HHR7V.css": "c4e248f229d47e11ee664ace48d54bb14f43ccda"
